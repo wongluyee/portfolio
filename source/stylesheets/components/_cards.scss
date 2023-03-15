@@ -53,6 +53,14 @@
   }
 }
 
+.card {
+  box-shadow: 5px 5px 5px rgb(172, 172, 172);
+}
+
+.card-body {
+  height: 180px;
+}
+
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
   .cards {

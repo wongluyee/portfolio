@@ -1,19 +1,17 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
 - name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  description: A simple watch list website to create list and add movies into the list.
+  image: projects/watchlisthome.png
+  url: https://luyee-watch-list.herokuapp.com/
+  github: https://github.com/wongluyee/rails-watch-list
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: JustSurvive
+  description: A marketplace website that allows users to host and book survival experiences.
+  image: projects/justsurvive.png
+  url: https://survivalexperience.herokuapp.com/
+  github: https://github.com/wongluyee/justsurvive
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: ProMGR
+  description: A dashboard application showing the summarized data about team performance allowing managers to plan activities and monitor performance efficiently. Login with these details, manager(josh@ng.com), employee(joe@luc.com). Password is the same for both accounts, PW (12345678).
+  image: projects/promgrdashboard.png
+  url: https://promgr.herokuapp.com/users/sign_in
+  github: https://github.com/wongluyee/promgr
