@@ -15,3 +15,9 @@
   image: projects/promgrdashboard.png
   url: https://promgr.herokuapp.com/users/sign_in
   github: https://github.com/wongluyee/promgr
+
+- name: SearchGif
+  description: A website to search gif.
+  image: projects/searchgif.png
+  url: https://wongluyee.github.io/searchgif/
+  github: https://github.com/wongluyee/searchgif
