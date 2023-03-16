@@ -9,51 +9,23 @@
           <p>My personal and professional projects</p>
         </div>
         <div class="row row-cols-1 row-cols-md-2 g-4">
-          <div class="col w-50">
-            <div class="card">
-              <img src="images/projects/watchlisthome.png" alt="watch list image">
-              <div class="d-flex flex-column">
-                <div class="card-body">
-                  <h2>Movie Watchlist</h2>
-                  <p>A simple watch list website to create list and add movies into the list.</p>
-                </div>
-                <div class="link mb-3 ms-3">
-                  <a class="btn btn-outline-dark" href="https://luyee-watch-list.herokuapp.com/">View website</a>
-                  <a class="btn btn-outline-dark" href="https://github.com/wongluyee/rails-watch-list">View code</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col w-50">
-            <div class="card">
-              <img src="images/projects/justsurvive.png" alt="just survive image">
-              <div class="d-flex flex-column">
-                <div class="card-body">
-                  <h2>Just Survive</h2>
-                  <p>A marketplace website that allows users to host and book survival experiences.</p>
-                </div>
-                <div class="link mb-3 ms-3">
-                  <a class="btn btn-outline-dark" href="https://survivalexperience.herokuapp.com/">View website</a>
-                  <a class="btn btn-outline-dark" href="https://github.com/wongluyee/justsurvive">View code</a>
+          <% data.projects.each do |project| %>
+            <div class="col w-50">
+              <div class="card">
+                <%= image_tag project.image, alt: "project image" %>
+                <div class="d-flex flex-column">
+                  <div class="card-body">
+                    <h2><%= project.name %></h2>
+                    <p><%= project.description %></p>
+                  </div>
+                  <div class="link mb-3 ms-3">
+                    <% link_to "View website", project.url, class: 'external-link', target: '_blank' %>
+                    <% link_to "View code", project.github, class: 'external-link', target: '_blank' %>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col w-50">
-            <div class="card">
-              <img src="images/projects/promgrdashboard.png" alt="promgr image">
-              <div class="d-flex flex-column">
-                <div class="card-body">
-                  <h2>ProMGR</h2>
-                  <p class="mb-0">A dashboard application showing the summarized data about team performance allowing managers to plan activities and monitor performance efficiently. Login with these details, manager (josh@ng.com), employee (joe@luc.com). Password is the same for both accounts, PW (12345678).</p>
-                </div>
-                <div class="link mb-3 ms-3">
-                  <a class="btn btn-outline-dark" href="http://promgr.tech/">View website</a>
-                  <a class="btn btn-outline-dark" href="https://github.com/wongluyee/promgr">View code</a>
-                </div>
-              </div>
-            </div>
-          </div>
+          <% end %>
         </div>
       </div>
     </div>
