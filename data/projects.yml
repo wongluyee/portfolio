@@ -11,7 +11,7 @@
   github: https://github.com/wongluyee/justsurvive
 
 - name: ProMGR
-  description: A dashboard application showing the summarized data about team performance allowing managers to plan activities and monitor performance efficiently. Login with these details, manager(josh@ng.com), employee(joe@luc.com). Password is the same for both accounts, PW (12345678).
+  description: A dashboard application showing the summarized data about team performance allowing managers to plan activities and monitor performance efficiently. Login with these details, manager (josh@ng.com), employee (joe@luc.com). Password is the same for both accounts, PW (12345678).
   image: projects/promgrdashboard.png
   url: https://promgr.herokuapp.com/users/sign_in
   github: https://github.com/wongluyee/promgr
