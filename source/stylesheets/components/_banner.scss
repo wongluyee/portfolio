@@ -1,7 +1,11 @@
 .banner {
-  // height: 100vh;
+  margin: 0px;
+  background-image: url('../images/1024-width.jpg');
+  background-size: cover;
+  position: relative;
 }
 
 .aboutme {
   box-shadow: 5px 5px 5px rgb(172, 172, 172);
+  position: static;
 }
