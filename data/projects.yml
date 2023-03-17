@@ -17,7 +17,7 @@
   github: https://github.com/wongluyee/promgr
 
 - name: SearchGif
-  description: A website to search gif.
+  description: A website to search gif that built with React.
   image: projects/searchgif.png
   url: https://wongluyee.github.io/searchgif/
   github: https://github.com/wongluyee/searchgif
