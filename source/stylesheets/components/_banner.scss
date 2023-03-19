@@ -1,18 +1,11 @@
 .banner {
-  height: 600px;
+  height: 100vh;
   margin: 0px;
   background-image: url(../images/1024-width.jpg);
   background-size: cover;
-  background-position: -300px 50%;
-}
-
-.aboutme-parent {
-  position: relative;
+  background-position: 50%;
 }
 
 .aboutme {
-  width: 600px;
   box-shadow: 5px 5px 5px rgb(172, 172, 172);
-  position: absolute;
-  right: 64px;
 }
