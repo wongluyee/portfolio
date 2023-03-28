@@ -27,3 +27,9 @@
   image: projects/calculator.png
   url: https://wongluyee.github.io/calculator/
   github: https://github.com/wongluyee/calculator
+
+- name: Simple Chat App
+  description: A simple chat app built using Action Cable.
+  image: projects/chat.png
+  url: https://luyee-simple-chat-app.herokuapp.com/chatrooms/11
+  github: https://github.com/wongluyee/simple-chat-app
