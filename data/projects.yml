@@ -1,3 +1,9 @@
+- name: Airbnb Clone
+  description: Airbnb Clone created using React.
+  image: projects/airbnbclone.png
+  url: https://wongluyee.github.io/airbnb-clone/
+  github: https://github.com/wongluyee/airbnb-clone
+
 - name: Movie Watchlist
   description: A simple watch list website to create list and add movies into the list.
   image: projects/watchlisthome.png
