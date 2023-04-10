@@ -54,7 +54,10 @@
 }
 
 .card {
-  box-shadow: 5px 5px 5px rgb(172, 172, 172);
+  box-shadow:
+    0 0 8px #fff,
+    0 0 36px #5271ff;
+  background-color: #d1e0e9;
 }
 
 .card-body {
