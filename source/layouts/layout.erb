@@ -14,13 +14,15 @@
 </head>
 <body>
   <%= yield %>
-  <%# <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script> %>
+  <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
   <script>
-    // var typed = new Typed('#element', {
-    //   strings: ["Hi I'm Luyee. A web developer. <div class='arrow bounce'><i class='fa fa-arrow-down'></i></div>"],
-    //   typeSpeed: 50,
-    //   showCursor: false
-    // });
+    var typed = new Typed('#element', {
+      strings: [`<h1 class="neon-text banner-title">Welcome</h1>
+    <h2 class="neon-text mt-5 banner-subtitle">I am Luyee, a web developer</h2>
+    <div class='arrow bounce mt-5'><i class='fa fa-arrow-down'></i></div>`],
+      typeSpeed: 50,
+      showCursor: false
+    });
   </script>
 </body>
 </html>
