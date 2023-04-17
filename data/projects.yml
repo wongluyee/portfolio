@@ -4,11 +4,11 @@
   url: https://promgr.herokuapp.com/users/sign_in
   github: https://github.com/wongluyee/promgr
 
-- name: Airbnb Clone
-  description: Airbnb Clone created using React.
-  image: projects/airbnbclone.png
-  url: https://wongluyee.github.io/airbnb-clone/
-  github: https://github.com/wongluyee/airbnb-clone
+- name: Expenses Record App
+  description: A expenses record app created using React. Still in progress. Please checkout the progress on github :)
+  image: projects/expensesrecord.png
+  url: https://wongluyee.github.io/expenses-record-app/
+  github: https://github.com/wongluyee/expenses-record-app
 
 - name: JustSurvive
   description: A marketplace website that allows users to host and book survival experiences. Login with these details, user (luyee@wong.com), password (12345678).
@@ -33,6 +33,12 @@
   image: projects/searchgif.png
   url: https://wongluyee.github.io/searchgif/
   github: https://github.com/wongluyee/searchgif
+
+- name: Airbnb Clone
+  description: Airbnb Clone created using React.
+  image: projects/airbnbclone.png
+  url: https://wongluyee.github.io/airbnb-clone/
+  github: https://github.com/wongluyee/airbnb-clone
 
 - name: Calculator
   description: A calculator I built using JavaScript.
