@@ -5,7 +5,7 @@
   github: https://github.com/wongluyee/promgr
 
 - name: Expenses Record App
-  description: A expenses record app created using React. Still in progress. Please checkout the progress on github :)
+  description: A expenses record app created using React. Checkout github to find out what I learned in this project :)
   image: projects/expensesrecord.png
   url: https://wongluyee.github.io/expenses-record-app/
   github: https://github.com/wongluyee/expenses-record-app
