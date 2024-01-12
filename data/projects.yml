@@ -3,55 +3,65 @@
   image: projects/promgrdashboard.png
   url: https://promgr.herokuapp.com/users/sign_in
   github: https://github.com/wongluyee/promgr
+  tools: <i class="fa-regular fa-gem"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: JustSurvive
   description: A marketplace website that allows users to host and book survival experiences. Login with these details, user (luyee@wong.com), password (12345678).
   image: projects/justsurvive.png
   url: https://survivalexperience.herokuapp.com/
   github: https://github.com/wongluyee/justsurvive
+  tools: <i class="fa-regular fa-gem"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Book Management System
   description: A web application for users to search, browser, purchase books. Admin is able to register new books, edit books, delete books, manage users, check sales. An email will be send out to user when they purchased books.
   image: projects/bms.png
   github: https://github.com/wongluyee/BmsWeb20
+  tools: <i class="fa-brands fa-java"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Inquiry System
   description: User who visit the web page can send an inquiry. User will get an automatic reply email after they sent out their inquiry. Admin is able to view all the inquiries, go to each inquiry page and reply to user.
   image: projects/inquirysystem.png
   github: https://github.com/wongluyee/InquirySystem
+  tools: <i class="fa-brands fa-java"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Expenses Record App
   description: A expenses record app created using React. Checkout github to find out what I learned in this project :)
   image: projects/expensesrecord.png
   url: https://wongluyee.github.io/expenses-record-app/
   github: https://github.com/wongluyee/expenses-record-app
+  tools: <i class="fa-brands fa-react"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Movie Watchlist
   description: A simple watch list website to create list and add movies into the list.
   image: projects/watchlisthome.png
   url: https://luyee-watch-list.herokuapp.com/
   github: https://github.com/wongluyee/rails-watch-list
+  tools: <i class="fa-regular fa-gem"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Simple Chat App
   description: A simple chat app built using Action Cable. Login with user1 (luyee@wong.com), user2 (alex@wong.com), password (123123).
   image: projects/chat.png
   url: https://luyee-simple-chat-app.herokuapp.com/chatrooms/11
   github: https://github.com/wongluyee/simple-chat-app
+  tools: <i class="fa-regular fa-gem"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: SearchGif
   description: A website to search gif that built with React. Try to search 'cat' :)
   image: projects/searchgif.png
   url: https://wongluyee.github.io/searchgif/
   github: https://github.com/wongluyee/searchgif
+  tools: <i class="fa-brands fa-react"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Airbnb Clone
   description: Airbnb Clone created using React.
   image: projects/airbnbclone.png
   url: https://wongluyee.github.io/airbnb-clone/
   github: https://github.com/wongluyee/airbnb-clone
+  tools: <i class="fa-brands fa-react"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>
 
 - name: Calculator
   description: A calculator I built using JavaScript.
   image: projects/calculator.png
   url: https://wongluyee.github.io/calculator/
   github: https://github.com/wongluyee/calculator
+  tools: <i class="fa-brands fa-js"></i> <i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i>

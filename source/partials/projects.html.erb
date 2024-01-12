@@ -16,6 +16,9 @@
                 <div class="d-flex flex-column justify-content-between h-100">
                   <div class="card-body">
                     <h2><%= project.name %></h2>
+                    <% if project.tools %>
+                      <span class="fs-4 tools"><%= project.tools %></span>
+                    <% end %>
                     <p><%= project.description %></p>
                   </div>
                   <div class="link mb-3 ms-3">
