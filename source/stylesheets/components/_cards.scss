@@ -65,6 +65,10 @@
   height: 100%;
 }
 
+.tools {
+  opacity: 0.5;
+}
+
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
   .cards {
